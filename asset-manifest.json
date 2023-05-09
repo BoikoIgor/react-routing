@@ -1,13 +1,31 @@
 {
   "files": {
     "main.css": "/react-routing/static/css/main.f6b777e5.css",
-    "main.js": "/react-routing/static/js/main.d641611f.js",
+    "main.js": "/react-routing/static/js/main.211f9b4c.js",
+    "static/js/266.bf8a85b2.chunk.js": "/react-routing/static/js/266.bf8a85b2.chunk.js",
+    "static/js/37.340ae190.chunk.js": "/react-routing/static/js/37.340ae190.chunk.js",
+    "static/js/5.7737c92c.chunk.js": "/react-routing/static/js/5.7737c92c.chunk.js",
+    "static/js/964.0a01df0f.chunk.js": "/react-routing/static/js/964.0a01df0f.chunk.js",
+    "static/js/651.ba9a0fbf.chunk.js": "/react-routing/static/js/651.ba9a0fbf.chunk.js",
+    "static/js/229.e0ac4365.chunk.js": "/react-routing/static/js/229.e0ac4365.chunk.js",
+    "static/js/681.991e431c.chunk.js": "/react-routing/static/js/681.991e431c.chunk.js",
+    "static/js/922.bdf74ba1.chunk.js": "/react-routing/static/js/922.bdf74ba1.chunk.js",
+    "static/js/128.999da134.chunk.js": "/react-routing/static/js/128.999da134.chunk.js",
     "index.html": "/react-routing/index.html",
     "main.f6b777e5.css.map": "/react-routing/static/css/main.f6b777e5.css.map",
-    "main.d641611f.js.map": "/react-routing/static/js/main.d641611f.js.map"
+    "main.211f9b4c.js.map": "/react-routing/static/js/main.211f9b4c.js.map",
+    "266.bf8a85b2.chunk.js.map": "/react-routing/static/js/266.bf8a85b2.chunk.js.map",
+    "37.340ae190.chunk.js.map": "/react-routing/static/js/37.340ae190.chunk.js.map",
+    "5.7737c92c.chunk.js.map": "/react-routing/static/js/5.7737c92c.chunk.js.map",
+    "964.0a01df0f.chunk.js.map": "/react-routing/static/js/964.0a01df0f.chunk.js.map",
+    "651.ba9a0fbf.chunk.js.map": "/react-routing/static/js/651.ba9a0fbf.chunk.js.map",
+    "229.e0ac4365.chunk.js.map": "/react-routing/static/js/229.e0ac4365.chunk.js.map",
+    "681.991e431c.chunk.js.map": "/react-routing/static/js/681.991e431c.chunk.js.map",
+    "922.bdf74ba1.chunk.js.map": "/react-routing/static/js/922.bdf74ba1.chunk.js.map",
+    "128.999da134.chunk.js.map": "/react-routing/static/js/128.999da134.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6b777e5.css",
-    "static/js/main.d641611f.js"
+    "static/js/main.211f9b4c.js"
   ]
 }
