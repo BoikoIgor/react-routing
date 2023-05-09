@@ -1,23 +1,15 @@
 import { Route, Routes } from 'react-router-dom';
-import Home from '../pages/Home';
-import About from '../pages/About';
-import { Mission } from './Mission';
-import { Team } from './Team';
-import { Reviews } from './Reviews';
-import Products from '../pages/Products';
-import NotFound from '../pages/NotFound';
-import ProductsDetails from '../pages/ProductsDetails';
 import { SharedLayout } from './SharedLayout';
-// import { Container, Header, Logo, Link } from './App.styled';
+import { lazy } from 'react';
 
-// const StyledLink = styled(NavLink)`
-//   color: black;
-//   margin-right: 1rem;
-
-//   &.active {
-//     color: orangered;
-//   }
-// `;
+const Home = lazy(() => import('../pages/Home'));
+const Products = lazy(() => import('../pages/Products'));
+const ProductsDetails = lazy(() => import('../pages/ProductsDetails'));
+const About = lazy(() => import('../pages/About'));
+const Mission = lazy(() => import('./Mission'));
+const Team = lazy(() => import('./Team'));
+const Reviews = lazy(() => import('./Reviews'));
+const NotFound = lazy(() => import('../pages/NotFound'));
 
 export const App = () => {
   return (
